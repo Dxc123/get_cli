@@ -1,7 +1,7 @@
 学习项目:get_cli 1.9.1版本
 
-原地址
-[flutter_get_cli](https://github.com/jonataslaw/flutter_get_cli)
+get_cli 官方地址
+[get_cli](https://github.com/jonataslaw/get_cli.git)
 
 1.添加了注释，方便学习；
 2.自定义生成自己常用的项目结构；
