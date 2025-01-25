@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:commander_ui/commander_ui.dart';
 import 'package:dcli/dcli.dart';
-import 'package:get_cli/samples/impl/get_view_stf.dart';
+import 'package:get_cli_pro/samples/impl/get_view_stf.dart';
 import 'package:recase/recase.dart';
 
 import '../../../../common/menu/menu.dart';

@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:get_cli/samples/impl/get_view_stf.dart';
+import 'package:get_cli_pro/samples/impl/get_view_stf.dart';
 import 'package:http/http.dart';
 import 'package:recase/recase.dart';
 

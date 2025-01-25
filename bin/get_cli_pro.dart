@@ -1,6 +1,6 @@
-import 'package:get_cli/exception_handler/exception_handler.dart';
-import 'package:get_cli/functions/version/version_update.dart';
-import 'package:get_cli/get_cli.dart';
+import 'package:get_cli_pro/exception_handler/exception_handler.dart';
+import 'package:get_cli_pro/functions/version/version_update.dart';
+import 'package:get_cli_pro/get_cli.dart';
 
 /// CLI程序入口点
 /// @param arguments 命令行参数列表

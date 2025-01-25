@@ -31,3 +31,9 @@ doc/api/
 bin/.get_cli.yaml
 cristiano_teste/*
 bin/*.exe
+
+### idea
+.idea/
+
+### vscode
+.vscode/settings.json
