@@ -17,9 +17,9 @@ get_cli 官方地址
 
 使用： 安装到本地：(需要Flutter环境)
 
-dart pub global activate -sgit https://github.com/Dxc123/get_cli.git
+dart pub global activate -sgit https://github.com/Dxc123/get_cli_pro.git
 
-本地移除： dart pub global deactivate get
+本地移除： dart pub global deactivate get_cli_pro
 
 使用命令区别： 以get_cli 开头
 
