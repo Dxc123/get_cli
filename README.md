@@ -4,10 +4,15 @@ get_cli 官方地址
 [get_cli](https://github.com/jonataslaw/get_cli.git)
 
 1.添加了注释，方便学习；
+
 2.自定义生成自己常用的项目结构；
+
 3.新增：清理 flutter项目命令；
+
 4....
+
 5....
+
 6....
 
 使用： 安装到本地：(需要Flutter环境)
