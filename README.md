@@ -21,3 +21,10 @@ dart pub global activate -sgit https://github.com/Dxc123/get_cli.git
 
 本地移除： dart pub global deactivate get
 
+使用命令区别： 以get_cli 开头
+
+使用示例如：
+
+get_cli create project:DemoDart  
+
+get_cli generate icons 

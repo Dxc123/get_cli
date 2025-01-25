@@ -31,4 +31,4 @@ dev_dependencies:
 
 # 配置标识为 get 包的可执行文件
 executables:
-  get: get
+  get_cli: get_cli
